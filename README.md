@@ -15,9 +15,9 @@ Each visualization demonstrates different techniques, from basic charts to advan
 - [Visualization 8](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework6_16999076478730/FirstSaleandLastSale) First & Last Month of Sales and Monthly Sales for Chosen Year
 - [Visualization 9](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework6_16999076478730/Index) Sales Figures in the First or Last Month of Each Year
 - [Visualization 10](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework6_16999076478730/Rank) Most Profitable 5 Products in Each Region 
-- [Visualization 11](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet1)
-- [Visualization 12](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet2)
-- [Visualization 13](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Dashboard1)
-- [Visualization 14](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet5) 
+- [Visualization 11](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet1) Customer Order Frequency
+- [Visualization 12](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet2) Monthly Profitable vs. Unprofitable Days
+- [Visualization 13](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Dashboard1) Yearly Sales Performance by Customer Acquisition Year
+- [Visualization 14](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet5) Cumulative Customer Growth by Segment
 - [Visualization 15](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/ProfitSalesDashboardKPI3_Q1_HW8/Dashboard1) Interactive Dashboard on Profit-Sales 
 - [Visualization 16](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/StoryOnDiscount_Q2_HW8/Story1) Story on Discount 
