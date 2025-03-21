@@ -20,4 +20,7 @@ Each visualization demonstrates different techniques, from basic charts to advan
 - [Visualization 13](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Dashboard1) Yearly Sales Performance by Customer Acquisition Year
 - [Visualization 14](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet5) Cumulative Customer Growth by Segment
 - [Visualization 15](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/ProfitSalesDashboardKPI3_Q1_HW8/Dashboard1) Interactive Dashboard on Profit-Sales 
-- [Visualization 16](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/StoryOnDiscount_Q2_HW8/Story1) Story on Discount 
+- [Visualization 16](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/StoryOnDiscount_Q2_HW8/Story1) Story on Discount
+- [Visualization 17](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework9_17025839389720/Task1) Sales by Sub-Category with Confidence Intervals (Chart Type: Horizontal Bar Chart)
+- [Visualization 18](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework9_17025839389720/Task2) Customer Contribution to Total Sales (Pareto Chart) (Chart Type: Cumulative Line Chart)
+- [Visualization 19](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework9_17025839389720/Task3) Sub-Category Profit Waterfall Analysis (Chart Type: Waterfall Chart)
