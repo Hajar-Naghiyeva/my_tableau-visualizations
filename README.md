@@ -18,6 +18,6 @@ Each visualization demonstrates different techniques, from basic charts to advan
 - [Visualization 11](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet1)
 - [Visualization 12](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet2)
 - [Visualization 13](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Dashboard1)
-- [Visualization 14](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet5)
-- [Visualization 15](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/ProfitSalesDashboardKPI3_Q1_HW8/Dashboard1)
-- [Visualization 16](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/StoryOnDiscount_Q2_HW8/Story1)
+- [Visualization 14](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework7_17014610683090/Sheet5) 
+- [Visualization 15](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/ProfitSalesDashboardKPI3_Q1_HW8/Dashboard1) Interactive Dashboard on Profit-Sales 
+- [Visualization 16](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/StoryOnDiscount_Q2_HW8/Story1) Story on Discount 
