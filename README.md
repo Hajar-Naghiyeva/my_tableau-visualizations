@@ -6,7 +6,7 @@ Each visualization demonstrates different techniques, from basic charts to advan
 ## Here are my public Tableau visualizations:
 
 - [Visualization 1](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet1) Profit Growth by Category Over Time
-- [Visualization 2](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet2)
+- [Visualization 2](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet2) Profit Quantity Sales Summary
 - [Visualization 3](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet3)
 - [Visualization 4](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/CustomerProductOrderReport_16982630409870/Customer) Customer Report
 - [Visualization 5](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/CustomerProductOrderReport_16982630409870/Product) Product Report 
