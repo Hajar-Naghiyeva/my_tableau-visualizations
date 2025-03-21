@@ -7,7 +7,7 @@ Each visualization demonstrates different techniques, from basic charts to advan
 
 - [Visualization 1](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet1) Profit Growth by Category Over Time
 - [Visualization 2](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet2) Profit Quantity Sales Summary
-- [Visualization 3](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet3)
+- [Visualization 3](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/Homework1_16959303134040/Sheet3) Number of Sales by Year of Order
 - [Visualization 4](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/CustomerProductOrderReport_16982630409870/Customer) Customer Report
 - [Visualization 5](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/CustomerProductOrderReport_16982630409870/Product) Product Report 
 - [Visualization 6](https://public.tableau.com/app/profile/hajar.naghiyeva/viz/LiverpoolFootballGame_Homework5/Sheet1?publish=yes) Liverpool FC Starters Report 
